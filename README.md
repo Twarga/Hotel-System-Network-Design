@@ -143,7 +143,7 @@ After completing the configurations, verify the following:
 ## Screenshots & Files
 
 - **Network Architecture**: [Link to Screenshot or File]
-- **Packet Tracer File**: [Link to .pkt file]
+- **Packet Tracer File**: []
 
 ---
 
@@ -153,4 +153,3 @@ This project demonstrates the implementation of a complex hotel network setup, e
 
 ---
 
-Feel free to edit the template as needed, and make sure to replace the placeholders with your actual file links and details. Once you're done, you can upload this README to your GitHub repository to showcase your project!
