@@ -142,8 +142,8 @@ After completing the configurations, verify the following:
 
 ## Screenshots & Files
 
-- **Network Architecture**: [Link to Screenshot or File]
-- **Packet Tracer File**: [Link to .pkt file]
+- **Network Architecture**: [Link to Screenshot ](1.png)
+- **Packet Tracer File**: ![Link to .pkt file](P3_Hotel_System_Network.pkt)
 
 ---
 
