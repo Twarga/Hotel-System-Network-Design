@@ -143,7 +143,7 @@ After completing the configurations, verify the following:
 ## Screenshots & Files
 
 - **Network Architecture**: [Link to Screenshot ](1.png)
-- **Packet Tracer File**: ![Link to .pkt file](P3_Hotel_System_Network.pkt)
+- **Packet Tracer File**: [Link to .pkt file](P3_Hotel_System_Network.pkt)
 ---
 
 ## Conclusion
