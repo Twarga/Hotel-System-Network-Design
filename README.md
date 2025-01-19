@@ -144,7 +144,6 @@ After completing the configurations, verify the following:
 
 - **Network Architecture**: [Link to Screenshot ](1.png)
 - **Packet Tracer File**: ![Link to .pkt file](P3_Hotel_System_Network.pkt)
-
 ---
 
 ## Conclusion
@@ -153,4 +152,3 @@ This project demonstrates the implementation of a complex hotel network setup, e
 
 ---
 
-Feel free to edit the template as needed, and make sure to replace the placeholders with your actual file links and details. Once you're done, you can upload this README to your GitHub repository to showcase your project!
